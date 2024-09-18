@@ -1,4 +1,4 @@
-https://github.com/sangeetha7519/LeetCodeProblem/issues/1#issue-2533570109
+
 class Solution:
     def reverse(self, x: int) -> int:
         INT_MIN, INT_MAX = -2**31, 2**31 - 1
