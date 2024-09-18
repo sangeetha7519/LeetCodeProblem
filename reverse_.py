@@ -1,4 +1,4 @@
-
+![Screenshot 2024-09-18 174053](https://github.com/user-attachments/assets/d4b4ae84-3fd1-4e75-8598-079f1d857773)
 class Solution:
     def reverse(self, x: int) -> int:
         INT_MIN, INT_MAX = -2**31, 2**31 - 1
